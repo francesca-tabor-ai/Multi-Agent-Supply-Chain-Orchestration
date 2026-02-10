@@ -1,0 +1,8 @@
+{
+  "name": "MACOP - Multi-Agent Commerce Orchestration",
+  "description": "A sophisticated multi-agent system coordinating discovery, validation, transaction, and support across the commerce lifecycle using a shared context graph.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
